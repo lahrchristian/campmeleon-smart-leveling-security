@@ -5,7 +5,7 @@ const features = [
     icon: Compass,
     title: "Smart Leveling",
     description: "Nie wieder Keile. Ein Klick, und du stehst gerade.",
-    teaser: "Pneumatische Präzision trifft auf intelligente Steuerung."
+    teaser: "Präzision trifft auf intelligente Steuerung."
   },
   {
     icon: Shield,
