@@ -5,6 +5,10 @@ import { componentTagger } from "lovable-tagger";
 
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
+  // Für GitHub Pages: Ersetze 'REPOSITORY_NAME' mit deinem Repo-Namen
+  // z.B. base: '/campmeleon/' wenn dein Repo 'campmeleon' heißt
+  // Für Custom Domain oder lokale Entwicklung: base: '/'
+  base: '/',
   server: {
     host: "::",
     port: 8080,
