@@ -8,7 +8,7 @@ const Header = () => {
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Logo */}
           <a href="#start" className="flex items-center gap-3 group">
-            <img alt="Campmeleon Logo" className="h-10 sm:h-12 w-auto animate-pulse-glow" src="/lovable-uploads/b9293dd8-5035-4e2c-af60-c9293ef126dc.png" />
+            <img alt="Campmeleon Logo" className="h-10 sm:h-12 w-auto animate-pulse-glow" src="/lovable-uploads/e6280d70-f165-4cb5-bf8c-1f49016690b2.png" />
             <span className="font-display text-xl sm:text-2xl font-bold text-gradient glow-text">
               CAMPMELEON
             </span>
