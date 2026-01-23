@@ -8,7 +8,10 @@ const Header = () => {
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Logo */}
           <a href="#start" className="flex items-center gap-3 group">
-            <img alt="Campmeleon Logo" className="h-10 sm:h-12 w-auto animate-pulse-glow" src="/lovable-uploads/e6280d70-f165-4cb5-bf8c-1f49016690b2.png" />
+            <div className="relative">
+              <div className="absolute inset-0 rounded-full bg-primary/20 animate-ping" style={{ animationDuration: '2s' }} />
+              <img alt="Campmeleon Logo" className="relative h-10 sm:h-12 w-auto animate-pulse-glow" src="/lovable-uploads/e6280d70-f165-4cb5-bf8c-1f49016690b2.png" />
+            </div>
             <span className="font-display text-xl sm:text-2xl font-bold text-gradient glow-text">
               CAMPMELEON
             </span>
