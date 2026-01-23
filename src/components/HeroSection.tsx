@@ -8,7 +8,7 @@ const HeroSection = () => {
         <img 
           src={heroImage} 
           alt="Campmeleon Smart Leveling System" 
-          className="w-full h-full object-cover object-center"
+          className="w-full h-full object-cover object-[70%_center] sm:object-center"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-background via-background/70 to-background/30" />
         <div className="absolute inset-0 bg-gradient-to-r from-background/50 to-transparent" />
