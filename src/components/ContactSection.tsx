@@ -24,11 +24,11 @@ const ContactSection = () => {
                 <div className="feature-icon w-12 h-12">
                   <Mail className="w-5 h-5 text-primary" />
                 </div>
-                <a 
-                  href="mailto:lahrchristian@gmail.com" 
+              <a 
+                  href="mailto:christian.lahr@campmeleon.com" 
                   className="text-lg text-foreground hover:text-primary transition-colors"
                 >
-                  lahrchristian@gmail.com
+                  christian.lahr@campmeleon.com
                 </a>
               </div>
 
@@ -57,7 +57,7 @@ const ContactSection = () => {
 
           {/* CTA */}
           <a 
-            href="mailto:lahrchristian@gmail.com?subject=Campmeleon%20-%20Interesse"
+            href="mailto:christian.lahr@campmeleon.com?subject=Campmeleon%20-%20Interesse"
             className="btn-glow inline-flex items-center gap-2 px-8 py-4 text-base font-semibold text-primary-foreground rounded-lg"
           >
             <Mail className="w-5 h-5" />
