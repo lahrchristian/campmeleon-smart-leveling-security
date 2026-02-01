@@ -25,10 +25,10 @@ const ContactSection = () => {
                   <Mail className="w-5 h-5 text-primary" />
                 </div>
               <a 
-                  href="mailto:christian.lahr@campmeleon.com" 
+                  href="mailto:info@campmeleon.com" 
                   className="text-lg text-foreground hover:text-primary transition-colors"
                 >
-                  christian.lahr@campmeleon.com
+                  info@campmeleon.com
                 </a>
               </div>
 
@@ -57,7 +57,7 @@ const ContactSection = () => {
 
           {/* CTA */}
           <a 
-            href="mailto:christian.lahr@campmeleon.com?subject=Campmeleon%20-%20Interesse"
+            href="mailto:info@campmeleon.com?subject=Campmeleon%20-%20Interesse"
             className="btn-glow inline-flex items-center gap-2 px-8 py-4 text-base font-semibold text-primary-foreground rounded-lg"
           >
             <Mail className="w-5 h-5" />
