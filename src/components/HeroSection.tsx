@@ -45,7 +45,7 @@ const HeroSection = () => {
 
           {/* Subline */}
           <p className="animate-fade-up-delay-2 text-lg sm:text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto mb-10">
-            Das erste System, das Nivellierung und Sicherheit intelligent vereint.
+            Das intelligente Nivellierungssystem für deinen Camper.
           </p>
 
           {/* CTA Button */}

@@ -1,4 +1,4 @@
-import { Compass, Shield, Smartphone } from "lucide-react";
+import { Compass, Gauge, Smartphone } from "lucide-react";
 
 const features = [
   {
@@ -8,16 +8,16 @@ const features = [
     teaser: "Präzision trifft auf intelligente Steuerung."
   },
   {
-    icon: Shield,
-    title: "Guardian Mode",
-    description: "Wenn du schläfst, wacht Campmeleon.",
-    teaser: "Gas- & Einbruchschutz für absolute Sicherheit."
+    icon: Gauge,
+    title: "Millimeter-Präzision",
+    description: "Automatisches Nivellieren in Sekunden.",
+    teaser: "Sensorgesteuert für perfekte Balance."
   },
   {
     icon: Smartphone,
     title: "App Control",
     description: "Volle Kontrolle über dein Smartphone.",
-    teaser: "Steuere alles bequem von der Couch aus."
+    teaser: "Steuere das Nivellieren bequem von der Couch aus."
   }
 ];
 
